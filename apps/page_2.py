@@ -9,7 +9,7 @@ from prophet.plot import plot_plotly
 from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 import plotly.graph_objs as go
 import numpy as np
-import pandas_datareader as data
+#import pandas_datareader as data
 
 import warnings
 warnings.filterwarnings('ignore')
