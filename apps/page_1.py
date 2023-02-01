@@ -8,7 +8,7 @@ import plotly.express as px
 from prophet.plot import plot_plotly
 import plotly.graph_objs as go
 import numpy as np
-import pandas_datareader as data
+#import pandas_datareader as data
 
 import warnings
 warnings.filterwarnings('ignore')
