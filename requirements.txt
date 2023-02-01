@@ -1,0 +1,9 @@
+pandas
+streamlit
+prophet>=1.1
+statsmodels
+openpyxl
+matplotlib-venn
+numpy
+plotly 
+scikit-learn
