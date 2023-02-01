@@ -7,7 +7,7 @@ from prophet import Prophet
 from prophet.plot import plot_plotly
 import plotly.graph_objs as go
 import numpy as np
-import pandas_datareader as data
+#import pandas_datareader as data
 from multiapp import MultiApp
 from apps import page_1, page_2
 
